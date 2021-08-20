@@ -6,7 +6,7 @@
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://disavle.github.io/img/placeholder-image.png</image:loc>
+	<image:loc>https://disavle.github.io/img/DSC06243.JPG</image:loc>
 	<image:title>placeholder%20image</image:title>
 	</image:image>
 	<image:image>
@@ -23,6 +23,10 @@
 	<lastmod>2021-08-20</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://disavle.github.io/img/placeholder-image.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>https://disavle.github.io/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
